@@ -1,0 +1,10 @@
+Aujourd'hui j'ai fait un peu de recherche concernant mon projet de ESP-700. 
+Le projet que j'ai soumis est une application 100% basée sur la reconnaissance vocale.
+J'ai donc eu à voir comment marchait les services de ce genre à savoir principalement ceux de google et de apple avec ciry et alexa.
+J'ai aussi eu à faire le point avec mes deux groupes et on fera les ppts demain matin.
+Sur le projet de fin d'année, je me suis aussi penché un peu sur la partie reconnaissance vocale, pour voir comment 
+celà pouvait se concevoir, j'ai vu qu'il existait des services tiers avec lesquels je pourrait faire les versions de tests avant même
+de voir si par la suite, mon équipe et moi devrions crée ou améliorer l'existant. Parmi je compte celui d'amazon, google, ibm et azure(microsoft)
+c'est les principaux que j'ai eu à trouver et qui fournissent de bonnes documentations. J'ai egalement eu à regarder comment celà pouvait 
+s'intégrer si je devais le rajouter à flutter (etant donné que je vise tout type de personne donc une application mulitplatforme pour toucher et aider tout types 
+de personnes).
